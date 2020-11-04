@@ -7,7 +7,7 @@ This project is made with **Reactjs**
 
 1. Clone this project `git clone git@github.com:eljeenbanta/WPengine-exam.git my-app`
 2. CD into the directory `cd my-app`
-3. Install all packages with `yarn` or `npm install`
+3. Install all packages with `npm install`
 4. Start the server with `yarn start`
 
 ## After installation
