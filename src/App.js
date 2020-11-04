@@ -12,7 +12,7 @@ import Home from './Views/Home';
 
 function App() {
   return (
-    <div className="relative pb-10  min-h-screen">
+    <div className="pb-10 ">
 
         <Navbar fixed="top" bg="dark" variant="dark">
           <Navbar.Brand href="#">WP Engine</Navbar.Brand>
@@ -25,11 +25,10 @@ function App() {
                 <Home />
             </Route>
           </Switch>
+          
        
-          <Footer />
-
       </Router>
-      
+      <Footer />
     </div>
   )  
 }

@@ -2,9 +2,9 @@ import React from 'react';
 
 function Footer(){
     return (
-        <footer className="bg-gray-200 text-center p-3 text-cs absolute bottom-0 w-full">
-            &copy; Copyright 2020
-        </footer>  
+        <footer className='text-center fixed-bottom footer mt-auto py-3 bg-dark text-white'>
+        <div className='container'>&#169; 2020 / WP Engine coding exercise</div>
+      </footer>
     )
 }
 
