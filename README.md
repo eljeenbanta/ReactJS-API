@@ -3,6 +3,8 @@
 
 This project is made with **Reactjs**
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Installation
 
 1. Clone this project `git clone git@github.com:eljeenbanta/WPengine-exam.git my-app`
@@ -12,14 +14,12 @@ This project is made with **Reactjs**
 
 ## After installation
 
-*in the application itself, type a specific Subreddit topics. The application will automatically search for the keyword in the search box. 
+* In the application itself, type a specific Subreddit topics. The application will automatically search for the keyword in the search box. 
 
-*You can click the specific title of the search results to go on the main link of the topic. 
+* You can click the specific title of the search results to go on the main link of the topic. 
 
-*in the bottom of the page there is a pagination to move on the next page of the search results.
+* In the bottom of the page there is a pagination to move on the next page of the search results.
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
