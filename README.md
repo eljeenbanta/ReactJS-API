@@ -1,6 +1,5 @@
 
-# WP engine Exam
-
+# React JS - API
 This project is made with **Reactjs**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
